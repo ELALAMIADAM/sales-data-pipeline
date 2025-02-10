@@ -1,0 +1,23 @@
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Database Interaction
+sqlalchemy==2.0.20
+psycopg2-binary==2.9.6  # For PostgreSQL
+
+# Orchestration
+apache-airflow==2.6.3
+prefect==2.10.5  # Alternative to Airflow
+
+# Data Visualization
+streamlit==1.26.0
+matplotlib==3.7.2
+plotly==5.15.0
+
+# Utilities
+python-dotenv==1.0.0  # For managing environment variables
+faker==18.11.2  # For generating synthetic data (optional)
+
+# Testing
+pytest==7.4.0
